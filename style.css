@@ -1,0 +1,153 @@
+.container{
+    width:1200px;
+    margin:auto;
+
+}
+.one-1{
+    background: red;
+
+float: left;
+
+margin-bottom: 15px;
+
+box-sizing: border-box;
+
+padding: 15px;
+
+width: 33.33%;
+
+height: 100px;
+}
+.one-2{
+    background: yellow;
+
+float: left;
+
+margin-bottom: 15px;
+
+box-sizing: border-box;
+
+padding: 15px;
+
+width: 33.33%;
+
+height: 100px;
+}
+
+
+.one-3{
+    background: red;
+
+float: left;
+
+margin-bottom: 15px;
+
+box-sizing: border-box;
+
+padding: 15px;
+
+width: 33.33%;
+
+height: 100px;
+}
+
+
+.two{
+    background: orange;
+
+float: left;
+
+margin-bottom: 15px;
+
+box-sizing: border-box;
+
+padding: 15px;
+
+width: 100%;
+
+height: 100px;
+
+}
+
+.three-1{
+    background: red ;
+
+float: left;
+
+margin-bottom: 15px;
+
+box-sizing: border-box;
+
+padding: 15px;
+
+width: 50%;
+
+height: 100px;
+
+}
+
+.three-2{
+    background: yellow;
+
+float: left;
+
+margin-bottom: 15px;
+
+box-sizing: border-box;
+
+padding: 15px;
+
+width: 50%;
+
+height: 100px;
+
+}
+.five-1{
+    background: orange;
+
+float: left;
+
+margin-bottom: 15px;
+
+box-sizing: border-box;
+
+padding: 15px;
+
+width: 60%;
+
+height: 100px;
+
+}
+
+.five-2{
+    background: red;
+
+float: left;
+
+margin-bottom: 15px;
+
+box-sizing: border-box;
+
+padding: 15px;
+
+width: 20%;
+
+height: 100px;
+
+}
+.five-3{
+    background: orange;
+
+float: left;
+
+margin-bottom: 15px;
+
+box-sizing: border-box;
+
+padding: 15px;
+
+width: 20%;
+
+height: 100px;
+
+}
